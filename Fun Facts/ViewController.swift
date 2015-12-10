@@ -8,6 +8,7 @@
 
 import UIKit
 
+
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -21,5 +22,8 @@ class ViewController: UIViewController {
     }
 
 
+    @IBAction func showFunFact() {
+        print("You pressed the me!")
+    }
 }
 
