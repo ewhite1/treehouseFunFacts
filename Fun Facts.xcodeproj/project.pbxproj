@@ -12,6 +12,7 @@
 		EC5C2FD81C196E9800F8E94C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC5C2FD61C196E9800F8E94C /* Main.storyboard */; };
 		EC5C2FDA1C196E9800F8E94C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC5C2FD91C196E9800F8E94C /* Assets.xcassets */; };
 		EC5C2FDD1C196E9800F8E94C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC5C2FDB1C196E9800F8E94C /* LaunchScreen.storyboard */; };
+		EC5C2FE51C1C17BD00F8E94C /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC5C2FE41C1C17BD00F8E94C /* FactBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		EC5C2FD91C196E9800F8E94C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EC5C2FDC1C196E9800F8E94C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC5C2FDE1C196E9800F8E94C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EC5C2FE41C1C17BD00F8E94C /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				EC5C2FD21C196E9800F8E94C /* AppDelegate.swift */,
 				EC5C2FD41C196E9800F8E94C /* ViewController.swift */,
+				EC5C2FE41C1C17BD00F8E94C /* FactBook.swift */,
 				EC5C2FD61C196E9800F8E94C /* Main.storyboard */,
 				EC5C2FD91C196E9800F8E94C /* Assets.xcassets */,
 				EC5C2FDB1C196E9800F8E94C /* LaunchScreen.storyboard */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EC5C2FE51C1C17BD00F8E94C /* FactBook.swift in Sources */,
 				EC5C2FD51C196E9800F8E94C /* ViewController.swift in Sources */,
 				EC5C2FD31C196E9800F8E94C /* AppDelegate.swift in Sources */,
 			);
@@ -285,6 +289,7 @@
 				EC5C2FE31C196E9800F8E94C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
