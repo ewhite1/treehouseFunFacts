@@ -13,6 +13,7 @@
 		EC5C2FDA1C196E9800F8E94C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EC5C2FD91C196E9800F8E94C /* Assets.xcassets */; };
 		EC5C2FDD1C196E9800F8E94C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EC5C2FDB1C196E9800F8E94C /* LaunchScreen.storyboard */; };
 		EC5C2FE51C1C17BD00F8E94C /* FactBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC5C2FE41C1C17BD00F8E94C /* FactBook.swift */; };
+		EC5C2FE71C1E7D0800F8E94C /* ColorWheel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EC5C2FE61C1E7D0800F8E94C /* ColorWheel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		EC5C2FDC1C196E9800F8E94C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EC5C2FDE1C196E9800F8E94C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EC5C2FE41C1C17BD00F8E94C /* FactBook.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactBook.swift; sourceTree = "<group>"; };
+		EC5C2FE61C1E7D0800F8E94C /* ColorWheel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorWheel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				EC5C2FD41C196E9800F8E94C /* ViewController.swift */,
 				EC5C2FE41C1C17BD00F8E94C /* FactBook.swift */,
 				EC5C2FD61C196E9800F8E94C /* Main.storyboard */,
+				EC5C2FE61C1E7D0800F8E94C /* ColorWheel.swift */,
 				EC5C2FD91C196E9800F8E94C /* Assets.xcassets */,
 				EC5C2FDB1C196E9800F8E94C /* LaunchScreen.storyboard */,
 				EC5C2FDE1C196E9800F8E94C /* Info.plist */,
@@ -142,6 +145,7 @@
 				EC5C2FE51C1C17BD00F8E94C /* FactBook.swift in Sources */,
 				EC5C2FD51C196E9800F8E94C /* ViewController.swift in Sources */,
 				EC5C2FD31C196E9800F8E94C /* AppDelegate.swift in Sources */,
+				EC5C2FE71C1E7D0800F8E94C /* ColorWheel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
